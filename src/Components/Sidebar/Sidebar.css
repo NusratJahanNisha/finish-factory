@@ -1,0 +1,88 @@
+.admin-box{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px #CED8E0;
+    border-radius: 4px 4px 0px 0px;
+    padding: 4px;
+    margin: 20px;
+}
+
+.admin-text{
+    font-family: barlow; 
+    size: 16px;
+    color: #6C747A;
+}
+
+.finish-factory-text{
+    font-size: 20px; 
+    color: #1F3547;
+}
+
+.dashboard-box{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px #CED8E0;
+    border-radius: 4px 4px 0px 0px;
+    padding: 4px;
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.dashboard-text{
+    padding-left: 8px;
+    color: #1F3547;
+}
+
+.dashboard-text:hover{
+    padding-left: 8px;
+    color: #EB3B2F;
+    cursor: pointer;
+}
+
+.management-box{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px #CED8E0;
+    border-radius: 4px 4px 0px 0px;
+    padding: 4px;
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.sub-bar{
+    padding-left: 40px;
+    padding-top: 15px;
+    color: #6C747A; 
+}
+.sub-bar:hover{
+    color: #EB3B2F;
+    cursor: pointer;
+}
+
+.tracking-box{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px #CED8E0;
+    border-radius: 4px 4px 0px 0px;
+    padding: 4px;
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.logout-box{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px #CED8E0;
+    border-radius: 4px 4px 0px 0px;
+    padding: 4px;
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 20px;
+}
+

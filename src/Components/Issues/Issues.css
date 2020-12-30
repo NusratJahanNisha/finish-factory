@@ -1,0 +1,70 @@
+.issues{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1F3547;
+    margin-bottom: 20px;
+}
+
+.box{
+    box-shadow: 0px 4px 10px rgba(25, 1, 52, 0.16);
+    border-radius: 8px; 
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.name{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: #1F3547;
+    margin-right: 70px;
+}
+
+.date{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F3547;
+}
+
+.text{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #1F3547;
+}
+
+.number{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: #1F3547;
+    font-size: 16px;
+}
+
+.order{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: 0.8px;
+    text-decoration-line: underline;
+}
+
+.resolved{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 15px;
+}
