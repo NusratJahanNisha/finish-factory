@@ -8,10 +8,15 @@
     margin-bottom: 20px;
 }
 
+.box > .navbar{
+    border: 0;
+    box-shadow:none;
+}
+
 .box{
     box-shadow: 0px 4px 10px rgba(25, 1, 52, 0.16);
     border-radius: 8px; 
-    padding: 30px;
+    padding: 20px;
     margin-top: 30px;
 }
 
@@ -21,7 +26,6 @@
     font-weight: 600;
     font-size: 28px;
     color: #1F3547;
-    margin-right: 70px;
 }
 
 .date{
@@ -58,6 +62,7 @@
     color: #000000;
     letter-spacing: 0.8px;
     text-decoration-line: underline;
+    cursor: pointer;
 }
 
 .resolved{

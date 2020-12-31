@@ -12,8 +12,12 @@ const Sidebar = () => {
                 <div className="d-flex bd-highlight mb-3">
                     <div class="p-2 bd-highlight"><img src="https://i.ibb.co/Jrwws2Q/Ellipse-2.png" alt="" /></div>
                     <div class="p-2 bd-highlight">
-                        <span className="admin-text">Admin</span> <br />
-                        <span className="finish-factory-text">Finish Factory</span>
+                        <ul className="list-unstyled">
+                            <li><span className="admin-text">Admin</span> </li>
+                            <li><span className="finish-factory-text">Finish Factory</span></li>
+                        </ul>
+                        
+                        
                     </div>
                 </div>
             </div>
